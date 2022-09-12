@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\source\\tacticsgame\\tacticsgame.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\intermediate\\build\\win64\\tacticsgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\intermediate\\build\\win64\\unrealeditor\\development\\tacticsgame\\definitions.tacticsgame.h",
+            "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\source\\tacticsgame\\tacticsgame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

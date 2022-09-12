@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\intermediate\\build\\win64\\unrealeditor\\inc\\tacticsgame\\tacticsgamegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\intermediate\\build\\win64\\tacticsgameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\intermediate\\build\\win64\\unrealeditor\\development\\tacticsgame\\definitions.tacticsgame.h",
+            "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\source\\tacticsgame\\tacticsgamegamemodebase.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unrealprojects\\basictacticsgame\\tacticsgame\\intermediate\\build\\win64\\unrealeditor\\inc\\tacticsgame\\tacticsgamegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

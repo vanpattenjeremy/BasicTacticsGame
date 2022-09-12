@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TacticsGame",
+			"Path": "D:\\UnrealProjects\\BasicTacticsGame\\TacticsGame\\Source\\TacticsGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TacticsGameEditor",
+			"Path": "D:\\UnrealProjects\\BasicTacticsGame\\TacticsGame\\Source\\TacticsGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

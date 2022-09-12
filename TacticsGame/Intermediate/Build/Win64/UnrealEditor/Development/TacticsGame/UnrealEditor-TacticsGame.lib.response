@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TacticsGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\BasicTacticsGame\TacticsGame\Intermediate\Build\Win64\TacticsGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealProjects\BasicTacticsGame\TacticsGame\Intermediate\Build\Win64\UnrealEditor\Development\TacticsGame\TacticsGame.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\TacticsGame\Intermediate\Build\Win64\UnrealEditor\Development\TacticsGame\TacticsGameGameModeBase.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\TacticsGame\Intermediate\Build\Win64\UnrealEditor\Development\TacticsGame\TacticsGame.init.gen.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\TacticsGame\Intermediate\Build\Win64\UnrealEditor\Development\TacticsGame\TacticsGameGameModeBase.gen.cpp.obj"
+"D:\UnrealProjects\BasicTacticsGame\TacticsGame\Intermediate\Build\Win64\UnrealEditor\Development\TacticsGame\Default.rc2.res"
+/OUT:"D:\UnrealProjects\BasicTacticsGame\TacticsGame\Intermediate\Build\Win64\UnrealEditor\Development\TacticsGame\UnrealEditor-TacticsGame.lib"
